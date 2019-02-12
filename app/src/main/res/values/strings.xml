@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Oef_input_2</string>
+    <string name="txt_btn_converse">Converse</string>
+    <string name="txt_tv_euro">Amount to be conversed</string>
+</resources>
